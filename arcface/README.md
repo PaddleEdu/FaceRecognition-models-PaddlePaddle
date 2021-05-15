@@ -82,7 +82,7 @@ python train.py [--network XXX]
 
 提取码：dzc0 
 
-AIStudio链接（敬请期待）
+[AIStudio链接](https://aistudio.baidu.com/aistudio/projectdetail/1770049?channel=0&channelType=0&shared=1)
 
 ```python
 cd /home/aistudio/paddle_pretrainedmodel
